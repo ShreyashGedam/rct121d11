@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "learn react",
+      "status": false
+    },
+    {
+      "name": "shreyash",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "anil",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "gedam",
+      "status": false,
+      "id": 4
+    },
+    {
+      "name": "rashmi",
+      "status": false,
+      "id": 5
+    }
+  ]
+}
